@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rekayo Design Skill"
+  short_description: "Explore, compare, and detail with minimal overhead"
+  default_prompt: "Use $rekayo-design-skill to complete this engineering task, starting small and expanding only when needed."
